@@ -1,6 +1,7 @@
 from base.selenium_base import SeleniumBase
 from selenium.webdriver.remote.webelement import WebElement
 from typing import List
+from selenium.webdriver.common.by import By
 
 from base.utils import Utils
 
